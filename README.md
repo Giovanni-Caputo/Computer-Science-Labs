@@ -1,6 +1,6 @@
 # Computer Science Labs
 
-Este repositório reúne exercícios e estudos de programação organizados por conceito, em vez de seguir a estrutura literal de listas da faculdade.
+Este repositório reúne exercícios e estudos de programação organizados por conceito.
 
 ## Objetivo
 
