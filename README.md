@@ -1,69 +1,68 @@
-# Computer Science Labs
+﻿# Computer Science Labs
 
-Este repositório reúne exercícios e estudos de programação organizados por conceito.
+Este repositório reúne exercícios, estudos e pequenos projetos de programação organizados por linguagem e por conceito.
 
 ## Objetivo
 
-Centralizar exercícios de lógica, estrutura de dados, programação orientada a objetos e algoritmos em um repositório organizado, com foco em aprendizado e revisão.
+Centralizar práticas acadêmicas e de estudo em um espaço limpo, legível e fácil de revisar, com foco em:
 
-## Disciplinas relacionadas
+- lógica de programação
+- estruturas de dados
+- algoritmos
+- programação orientada a objetos
+- resolução de exercícios por tema
+
+## Disciplinas e temas relacionados
 
 - Algoritmos e estrutura de dados
 - Lógica de programação
 - Programação estruturada em C
 - Programação orientada a objetos em Java
 - Introdução à programação em Python
-- Exercícios de estudo e prática acadêmica
+- Exercícios de revisão e prática acadêmica
 
-## Linguagens usadas
+## Linguagens presentes
 
 - C
 - C++
 - Java
 - Python
 
-## Principais conceitos estudados
+## Conceitos estudados
 
-- Estruturas condicionais
-- Laços de repetição
-- Vetores e matrizes
-- Funções
-- Manipulação de arquivos
-- Recursividade
-- Listas, filas e pilhas
-- Busca e ordenação
-- Programação orientada a objetos
+- estruturas condicionais
+- vetores e matrizes
+- funções
+- arquivos
+- listas, pilhas e filas
+- árvores
+- busca e ordenação
+- programação orientada a objetos
 
 ## Estrutura do repositório
 
 ```text
 Computer-Science-Labs
 ├── C
-│   ├── ATP1
-│   └── Estruturas
 ├── C++
-│   └── Estrutura-de-Dados
 ├── Java
-│   ├── POO
-│   └── Exercicios
 ├── Python
-│   └── Exercicios
 ├── Algorithms
-│   ├── Ordenacao
-│   └── Busca
 └── README.md
 ```
 
-## Como organizar os exercícios
+## Como usar
 
-Os exercícios estão agrupados por conhecimento e tema, como:
+1. Escolha a linguagem ou o tema desejado.
+2. Abra os arquivos correspondentes ao exercício.
+3. Estude, adapte e pratique a implementação por conta própria.
 
-- estruturas condicionais
-- vetores
-- funções
-- arquivos
-- ordenação
-- busca
-- listas e árvores
+## Convenção de organização
 
-Essa abordagem facilita a revisão e torna o repositório mais intuitivo do que manter tudo dividido por listas ou aulas.
+Os exercícios são agrupados por conhecimento, não por lista de aula, o que torna a revisão mais natural e intuitiva.
+
+## Status do repositório
+
+- Estrutura inicial organizada por tema
+- Exercícios adicionados em várias linguagens
+- README revisado para melhor navegação e apresentação
